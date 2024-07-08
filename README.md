@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **LLM model , GenAI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MITTALBHAVYA](https://github.com/MITTALBHAVYA)
+- 👨‍💻 All of my projects are available at [GITHUB](https://github.com/MITTALBHAVYA)
 
 - 💬 Ask me about **REACT</> Competitive Programming, DSA,AI-ML**
 
-- 📫 Connect with me **https://www.linkedin.com/in/mittalbhavya1729/**
+- 📫 Connect with me  [LINKEDIN](https://www.linkedin.com/in/mittalbhavya1729/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10sTa85dttkmdUzpxAyrptcm2WxFiZneV/view](https://drive.google.com/file/d/10sTa85dttkmdUzpxAyrptcm2WxFiZneV/view)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/10sTa85dttkmdUzpxAyrptcm2WxFiZneV/view)
 
 - ⚡ Fun fact **When I'm not coding or competing, you can find me solving complex Sudoku puzzles or exploring new things, like the fascinating world of medicinal plants with my Dhanvantri App!**
 
