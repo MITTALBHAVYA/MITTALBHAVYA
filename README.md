@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://github.com/MITTALBHAVYA/6companies30dayschallange/blob/main/Designer.png" alt="mittalbhavya" /> </p>
 <h1 align="center">Hi 👋, I'm BHAVYA MITTAL</h1>
 <h3 align="center">Aspiring software engineer with a strong foundation in computer science and a passion for developing innovative solutions. Proficient in C, C++, Python, JavaScript, and Java, with hands-on experience in frameworks like ReactJS, NodeJS, and ExpressJS. Skilled in building efficient, scalable web applications using MERN stack and implementing machine learning models. Achievements include securing AIR 37 at ICPC India 2023 and winning the AISummit2024 by KareAI. Notable projects include JobHack, a job application platform, and Sehat App, a health prediction tool using machine learning. Active in competitive programming and hackathons, continuously honing problem-solving skills.</h3>
 
