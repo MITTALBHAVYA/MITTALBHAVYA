@@ -1,42 +1,23 @@
 <h1 align="center">Hi 👋, I'm BHAVYA MITTAL</h1>
-<h3 align="center">Aspiring Software Engineer | Competitive Programmer | Innovator</h3>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mittalbhavya&label=Profile%20views&color=0e75b6&style=flat" alt="mittalbhavya" />
-</p>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mittalbhavya" alt="mittalbhavya" />
-  </a>
-</p>
-🔧 Tech Stack Master: C, C++, Python, JavaScript, Java | ReactJS, NodeJS, ExpressJS, MongoDB
-🎓 B.Tech in Computer Science Engineering from JSS Academy of Technical Education (2025)
+<h3 align="center">Aspiring software engineer with a strong foundation in computer science and a passion for developing innovative solutions. Proficient in C, C++, Python, JavaScript, and Java, with hands-on experience in frameworks like ReactJS, NodeJS, and ExpressJS. Skilled in building efficient, scalable web applications using MERN stack and implementing machine learning models. Achievements include securing AIR 37 at ICPC India 2023 and winning the AISummit2024 by KareAI. Notable projects include JobHack, a job application platform, and Sehat App, a health prediction tool using machine learning. Active in competitive programming and hackathons, continuously honing problem-solving skills.</h3>
 
-✨ Achievements & Highlights:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mittalbhavya&label=Profile%20views&color=0e75b6&style=flat" alt="mittalbhavya" /> </p>
 
-ICPC India 2023: AIR 37, Kanpur Regional
-Google KickStart: Ranked 3518th
-Meta HackerCup: Ranked 3532nd
-💡 Project Showcase:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mittalbhavya" alt="mittalbhavya" /></a> </p>
 
-JobHack: A cutting-edge MERN stack job application platform with JWT-based authentication and role-based authorization.
-Sehat App: ML-powered health prediction tool, achieving 89% accuracy for diabetes and 93% for heart disease.
-Slack Web App: Real-time communication platform reducing latency by 37% and boosting task completion by 15%.
-🏆 Hackathon Wins:
+- 🔭 I’m currently building **numerous projects**
 
-AISummit2024 by KareAI: Winner
-Active Competitor: Smart India Hackathon, Flipkart Grid, HackOn with Amazon, TVS Credit E.P.I.C, Accenture Innovation Challenge
-📈 Competitive Programming:
+- 🌱 I’m currently learning **LLM model , GenAI**
 
-CodeChef: 3 Stars, 1687 rating, 1000+ problems solved
-Codeforces: Specialist, 1428 rating
-LeetCode: 680+ problems solved, 1847+ rating
-🔭 I’m currently building numerous projects
-🌱 I’m currently learning LLM model , GenAI
-👨‍💻 All of my projects are available at https://github.com/MITTALBHAVYA
-💬 Ask me about REACT</> Competitive Programming, DSA, AI-ML
-📫 Connect with me https://www.linkedin.com/in/mittalbhavya1729/
-📄 Know about my experiences https://drive.google.com/file/d/10sTa85dttkmdUzpxAyrptcm2WxFiZneV/view
-⚡ Fun Fact: When I'm not coding or competing, you can find me solving complex Sudoku puzzles or exploring new things, like the fascinating world of medicinal plants with my Dhanvantri App!
+- 👨‍💻 All of my projects are available at [https://github.com/MITTALBHAVYA](https://github.com/MITTALBHAVYA)
+
+- 💬 Ask me about **REACT</> Competitive Programming, DSA,AI-ML**
+
+- 📫 Connect with me **https://www.linkedin.com/in/mittalbhavya1729/**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/10sTa85dttkmdUzpxAyrptcm2WxFiZneV/view](https://drive.google.com/file/d/10sTa85dttkmdUzpxAyrptcm2WxFiZneV/view)
+
+- ⚡ Fun fact **When I'm not coding or competing, you can find me solving complex Sudoku puzzles or exploring new things, like the fascinating world of medicinal plants with my Dhanvantri App!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -48,87 +29,12 @@ LeetCode: 680+ problems solved, 1847+ rating
 <a href="https://codeforces.com/profile/bhav1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bhav1729" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bhav1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhav1729" height="30" width="40" /></a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a>
-   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
-</p>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mittalbhavya&show_icons=true&locale=en&layout=compact" alt="mittalbhavya" />
-</p>
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mittalbhavya&show_icons=true&locale=en" alt="mittalbhavya" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mittalbhavya&" alt="mittalbhavya" />
-</p>
-Would it be better to have a banner too?
-Absolutely! A banner can make your profile even more visually appealing and personal. Here's an example of how you could add a banner:
 
-<p align="center">
-  <img src="https://your-banner-url.com" alt="Banner" width="100%" />
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mittalbhavya&show_icons=true&locale=en&layout=compact" alt="mittalbhavya" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mittalbhavya&show_icons=true&locale=en" alt="mittalbhavya" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mittalbhavya&" alt="mittalbhavya" /></p>
