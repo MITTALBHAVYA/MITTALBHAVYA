@@ -1,5 +1,8 @@
 <p align="left"> <img src="https://github.com/MITTALBHAVYA/6companies30dayschallange/blob/main/Designer.png" alt="mittalbhavya" /> </p>
 <h1 align="center">Hi 👋, I'm BHAVYA MITTAL</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F73C07&lines=Welcome+to+Programming+world;I+am+Bhavya+Mittal+.+%F0%9F%91%8B+;I+am+a+programmer+.;Computer%20Engineer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
 <h3 align="center">Aspiring software engineer with a strong foundation in computer science and a passion for developing innovative solutions. Proficient in C, C++, Python, JavaScript, and Java, with hands-on experience in frameworks like ReactJS, NodeJS, and ExpressJS. Skilled in building efficient, scalable web applications using MERN stack and implementing machine learning models. Achievements include securing AIR 37 at ICPC India 2023 and winning the AISummit2024 by KareAI. Notable projects include JobHack, a job application platform, and Sehat App, a health prediction tool using machine learning. Active in competitive programming and hackathons, continuously honing problem-solving skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mittalbhavya&label=Profile%20views&color=0e75b6&style=flat" alt="mittalbhavya" /> </p>
