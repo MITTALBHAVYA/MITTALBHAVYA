@@ -19,7 +19,7 @@
 
 - 📫 Connect with me  [LINKEDIN](https://www.linkedin.com/in/mittalbhavya1729/)
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/10sTa85dttkmdUzpxAyrptcm2WxFiZneV/view)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1ZPNDgq1_3ciNJJ9Wc2-UUr2B93o6vQJk/view)
 
 - ⚡ Fun fact **When I'm not coding or competing, you can find me solving complex Sudoku puzzles or exploring new things, like the fascinating world of medicinal plants with my Dhanvantri App!**
 
