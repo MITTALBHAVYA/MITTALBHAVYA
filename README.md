@@ -1,44 +1,124 @@
-<p align="left"> <img src="https://github.com/MITTALBHAVYA/6companies30dayschallange/blob/main/Designer.png" alt="mittalbhavya" /> </p>
-<h1 align="center">Hi 👋, I'm BHAVYA MITTAL</h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F73C07&lines=Welcome+to+Programming+world;I+am+Bhavya+Mittal+.+%F0%9F%91%8B+;I+am+a+programmer+.;Computer%20Engineer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+<div align="center">
+  <img src="https://github.com/MITTALBHAVYA/6companies30dayschallange/blob/main/Designer.png" alt="Bhavya Mittal Banner" width="100%" />
+
+  # Hi there, I'm Bhavya Mittal! 👋
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%92%BB;AI%2FML+Innovator+%F0%9F%A4%96;Competitive+Programmer+%F0%9F%8F%86;ICPC+India+AIR+37)](https://git.io/typing-svg)
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mittalbhavya1729)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/bhav1729/)
+  [![CodeForces](https://img.shields.io/badge/Codeforces-1427-blue?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/bhavya1729)
+  [![CodeChef](https://img.shields.io/badge/CodeChef-1687-brown?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/bhavya_1729)
+</div>
+
+## 🚀 About Me
+
+```typescript
+const bhavya = {
+    currentRole: "Full Stack Intern @ FanCraze",
+    education: "B.Tech CSE (2025) | CGPA: 8.57",
+    competitive: {
+        icpc: "AIR 37 @ ICPC India 2023",
+        leetcode: "Knight (1880+ Rating, 1000+ Problems)",
+        codeforces: "Specialist (1427 Rating)",
+        codechef: "⭐⭐⭐ (1687 Rating, 67+ Contests)"
+    },
+    skills: {
+        languages: ["C++", "Python", "JavaScript", "TypeScript"],
+        frontend: ["React.js", "Next.js", "Tailwind CSS", "HTML5", "CSS3"],
+        backend: ["Node.js", "Express.js", "FastAPI"],
+        databases: ["MongoDB", "PostgreSQL", "MySQL"],
+        ai_ml: ["TensorFlow", "Scikit-learn", "GenAI"],
+        tools: ["Git", "Docker", "VS Code", "Postman"]
+    }
+};
+```
+
+## 🏆 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Nexus - AI Data Analyst</h3>
+<div align="center">
+<a href="https://github.com/MITTALBHAVYA/NEXUS" target="_blank"><img src="https://img.shields.io/badge/NEXUS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Nexus Repo"></a>
+<p>
+AI-powered data analysis platform with 96% query accuracy. Built with React.js, FastAPI, and advanced ML techniques.
 </p>
-<h3 align="center">Aspiring software engineer with a strong foundation in computer science and a passion for developing innovative solutions. Proficient in C, C++, Python, JavaScript, and Java, with hands-on experience in frameworks like ReactJS, NodeJS, and ExpressJS. Skilled in building efficient, scalable web applications using MERN stack and implementing machine learning models. Achievements include securing AIR 37 at ICPC India 2023 and winning the AISummit2024 by KareAI. Notable projects include JobHack, a job application platform, and Sehat App, a health prediction tool using machine learning. Active in competitive programming and hackathons, continuously honing problem-solving skills.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mittalbhavya&label=Profile%20views&color=0e75b6&style=flat" alt="mittalbhavya" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mittalbhavya" alt="mittalbhavya" /></a> </p>
-
-- 🔭 I’m currently building **numerous projects**
-
-- 🌱 I’m currently learning **LLM model , GenAI**
-
-- 👨‍💻 All of my projects are available at [GITHUB](https://github.com/MITTALBHAVYA)
-
-- 💬 Ask me about **REACT</> Competitive Programming, DSA,AI-ML**
-
-- 📫 Connect with me  [LINKEDIN](https://www.linkedin.com/in/mittalbhavya1729/)
-
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1ZPNDgq1_3ciNJJ9Wc2-UUr2B93o6vQJk/view)
-
-- ⚡ Fun fact **When I'm not coding or competing, you can find me solving complex Sudoku puzzles or exploring new things, like the fascinating world of medicinal plants with my Dhanvantri App!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/bhavyamit1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhavyamit1729" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mittalbhavya1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mittalbhavya1729" height="30" width="40" /></a>
-<a href="https://instagram.com/mittal__bhavya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mittal__bhavya" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/bhavya_1729" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bhavya_1729" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/bhavyamittal1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bhavyamittal1729" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/bhav1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bhav1729" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bhav1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhav1729" height="30" width="40" /></a>
+</div>
+                                                                                      
+</td>
+<td width="50%">
+<h3 align="center">Sehat - Health Predictor</h3>
+<div align="center">
+<a href="https://github.com/MITTALBHAVYA/SEHAT-miniProject-sem5-" target="_blank"><img src="https://img.shields.io/badge/SEHAT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Sehat Repo"></a>
+<p>
+ML-powered health prediction system with 89%+ accuracy in disease prediction. Python, Scikit-learn, Streamlit.
 </p>
+</div>
+</td>
+</tr>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<tr>
+<td width="50%">
+<h3 align="center">JobHack - Career Platform</h3>
+<div align="center">
+<a href="https://jobhack108.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/JOBHACK-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="JobHack"></a>
+<p>
+Full-stack job platform with JWT auth and role-based access. MERN stack implementation.
+</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Dhanvantri - Plant Recognition</h3>
+<div align="center">
+<a href="https://github.com/MITTALBHAVYA/DhanVantriMyCut" target="_blank"><img src="https://img.shields.io/badge/DHANVANTRI-181717?style=for-the-badge&logo=github&logoColor=white" alt="Dhanvantri Repo"></a>
+<p>
+Android app for medicinal plant recognition with 90%+ accuracy. TensorFlow & Kotlin.
+</p>
+</div>
+</td>
+</tr>
+</table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mittalbhavya&show_icons=true&locale=en&layout=compact" alt="mittalbhavya" /></p>
+## 📊 GitHub Statistics
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mittalbhavya&show_icons=true&locale=en" alt="mittalbhavya" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MITTALBHAVYA&show_icons=true&theme=tokyonight" alt="Bhavya's GitHub Stats" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mittalbhavya&" alt="mittalbhavya" /></p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MITTALBHAVYA&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+## 💻 Tech Stack
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+## 🤝 Let's Connect
+
+<div align="center">
+  <a href="https://linkedin.com/in/mittalbhavya1729">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/bhavyamit1729">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:bhavya12mittal@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mittalbhavya&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+</div>
